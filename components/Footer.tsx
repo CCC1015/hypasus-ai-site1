@@ -11,14 +11,14 @@ export const Footer = () => {
             download
             className="hover:text-white/90"
           >
-            Privacy
+            Privacy verklaring
           </a>
           <a
             href="/Algemene_Voorwaarden_Hypasus(AV).pdf"
             download
             className="hover:text-white/90"
           >
-            Terms
+            Algemene voorwaarden
           </a>
         </div>
       </div>
