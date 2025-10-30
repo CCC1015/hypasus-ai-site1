@@ -14,7 +14,7 @@ export const Footer = () => {
             Privacy
           </a>
           <a
-            href="/Algemene_Voorwaarden_Hypasus_Automations_v1.1.pdf"
+            href="/Algemene_Voorwaarden_Hypasus(AV).pdf"
             download
             className="hover:text-white/90"
           >
