@@ -7,7 +7,7 @@ export const Footer = () => {
         <p>© {new Date().getFullYear()} Hypasus AI. Alle rechten voorbehouden.</p>
         <div className="flex items-center gap-4">
           <a
-            href="/Privacyverklaring_Hypasus_Automations.pdf"
+            href="/PrivacyVerklaring_Hypasus.pdf"
             download
             className="hover:text-white/90"
           >
