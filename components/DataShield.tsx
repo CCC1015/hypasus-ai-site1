@@ -36,7 +36,7 @@ export const DataShield = () => {
         <div className="grid lg:grid-cols-[1fr_auto] gap-10 items-center">
           <div>
             <span className="inline-flex items-center gap-2 rounded-full border border-emerald-400/30 bg-emerald-400/10 px-3 py-1 text-xs font-semibold tracking-wider text-emerald-300">
-              <span className="h-1.5 w-1.5 rounded-full bg-emerald-300 animate-pulse" /> NIEUW · VERSIE 1.0.0.13
+              <span className="h-1.5 w-1.5 rounded-full bg-emerald-300 animate-pulse" /> NIEUW · VERSIE 1.0.0.14
             </span>
             <h2 className="mt-4 text-3xl md:text-5xl font-extrabold leading-tight">
               DataShield: je <span className="bg-gradient-to-r from-emerald-300 to-hyp-primary bg-clip-text text-transparent">laatste verdedigingslinie</span>
