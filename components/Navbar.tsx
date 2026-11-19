@@ -14,6 +14,9 @@ export const Navbar = () => {
         </div>
         <nav className="hidden md:flex items-center gap-6 text-sm">
           <a href="#services" className="hover:text-hyp-primary transition">Diensten</a>
+          <a href="#datashield" className="hover:text-emerald-300 transition">DataShield</a>
+          <a href="#producten" className="hover:text-hyp-primary transition">Producten</a>
+          <a href="#updates" className="hover:text-hyp-primary transition">Updates</a>
           <a href="#about" className="hover:text-hyp-primary transition">Over</a>
           <a href="#contact" className="hover:text-hyp-primary transition">Contact</a>
           <Link href="#contact" className="rounded-xl px-4 py-2 bg-white/10 hover:bg-white/15 border border-white/10 shadow-glow transition">

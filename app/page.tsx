@@ -6,6 +6,9 @@ import Link from 'next/link'
 import { Navbar } from '@/components/Navbar'
 import { Hero } from '@/components/Hero'
 import { Services } from '@/components/Services'
+import { DataShield } from '@/components/DataShield'
+import { Products } from '@/components/Products'
+import { Updates } from '@/components/Updates'
 import { About } from '@/components/About'
 import { Contact } from '@/components/Contact'
 import { Footer } from '@/components/Footer'
@@ -18,6 +21,9 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Services />
+      <DataShield />
+      <Products />
+      <Updates />
       <About />
       <Contact />
       <Footer />

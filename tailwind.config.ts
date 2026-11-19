@@ -16,6 +16,12 @@ const config: Config = {
           accent: '#8b5cf6'
         }
       },
+      keyframes: {
+        shine: { to: { backgroundPosition: '200% center' } },
+      },
+      animation: {
+        shine: 'shine 6s linear infinite',
+      },
       boxShadow: {
         glow: '0 0 35px rgba(76,195,255,0.25)',
       },
