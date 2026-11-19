@@ -9,7 +9,7 @@ const products: Product[] = [
     name: 'DataShield',
     desc: 'Cybersecurity-companion voor Windows met Web Shield, Agent Box en een lokale AI-assistent.',
     tags: ['Security', 'Windows', '.NET'],
-    status: 'Live · 1.0.0.11',
+    status: 'Live · 1.0.0.12',
   },
   {
     name: 'TaskEasy',
