@@ -4,6 +4,7 @@ import { motion } from 'framer-motion'
 
 // Newest first. Add a line here with each release worth telling clients about.
 const updates = [
+  { date: '19 november 2026', title: 'DataShield 1.0.0.9: eigen AI-modellen', desc: 'Gebruik ook je eigen lokale modellen (duidelijk gemarkeerd als niet geverifieerd) en kies waar modellen worden opgeslagen.' },
   { date: '19 november 2026', title: 'DataShield 1.0.0.8: AI-modellen kiezen', desc: 'Een pagina om veilig lokale AI-modellen te installeren die bij je pc passen, met live systeemstatistieken.' },
   { date: '19 november 2026', title: 'DataShield 1.0.0.7: Web Shield meldt aan DataShield', desc: 'Alles wat Web Shield op een website tegenhoudt, verschijnt direct in DataShield, met melding en geschiedenis.' },
   { date: '19 november 2026', title: 'DataShield 1.0.0.5: plak-aanvallen gestopt', desc: 'Nep-CAPTCHA’s die een commando op je klembord zetten worden herkend en onschadelijk gemaakt.' },
